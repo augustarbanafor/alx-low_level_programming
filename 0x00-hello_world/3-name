@@ -1,2 +1,2 @@
 #!/bin/bash
-gc $CFIOE -o cisfun
+gcc $CFILE -o cisfun
